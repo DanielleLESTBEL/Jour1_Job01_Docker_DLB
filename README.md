@@ -67,7 +67,8 @@ Vérification dans un navigateur :
 --------------------------------------------
 ## **Arrêter le container**
 
-**10** 
+**10** docker stop 78532aeefb3e (78532aeefb3e = id du container)
+![image](https://github.com/user-attachments/assets/0d6e57b3-2092-47c3-b419-930baddbc5c6)
 
 
 **11** 
