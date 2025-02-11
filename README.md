@@ -70,8 +70,16 @@ Vérification dans un navigateur :
 **10** docker stop 78532aeefb3e (78532aeefb3e = id du container)
 ![image](https://github.com/user-attachments/assets/0d6e57b3-2092-47c3-b419-930baddbc5c6)
 
+![Arrêt du container_cmd10](https://github.com/user-attachments/assets/75e7ab50-4a3c-4f77-a15a-29d7fe656e8c)
 
-**11** 
+
+--------------------------------------------
+--------------------------------------------
+## **Supprimer le container**
+
+**11** docker rm <nom du container> // ATTENTION si container créé avec l'entrée -rm ALORS LE CONTAINER EST SUPPRIME DIRECTEMENT DES FERMETURE DU TERMINAL OU ARRET DU CONTAINER.
+
+![Suppression du container_cmd11](https://github.com/user-attachments/assets/97807960-1336-4cae-9fd7-5ad2b2385e63)
 
 
 **12** 
