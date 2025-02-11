@@ -82,8 +82,15 @@ Vérification dans un navigateur :
 ![Suppression du container_cmd11](https://github.com/user-attachments/assets/97807960-1336-4cae-9fd7-5ad2b2385e63)
 
 
-**12** 
+--------------------------------------------
+--------------------------------------------
+## **Supprimer une image Docker**
 
+**12** docker rmi <nom de l'image OU n° id de l'image>
+
+--------------------------------------------
+--------------------------------------------
+## **Supprimer une image Docker**
 
 **13** 
 
