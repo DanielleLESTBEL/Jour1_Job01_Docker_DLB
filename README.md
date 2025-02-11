@@ -81,7 +81,6 @@ Vérification dans un navigateur :
 
 ![Suppression du container_cmd11](https://github.com/user-attachments/assets/97807960-1336-4cae-9fd7-5ad2b2385e63)
 
-
 --------------------------------------------
 --------------------------------------------
 ## **Supprimer une image Docker**
@@ -90,10 +89,27 @@ Vérification dans un navigateur :
 
 --------------------------------------------
 --------------------------------------------
-## **Supprimer une image Docker**
+## **Donner un exemple de ligne de commande pour ces actions pour supprimer :**
 
-**13** 
+**13** Un conteneur spécifique
 
+**14** Plusieurs conteneurs
+
+**15** Tous les conteneurs arrêtés
+
+**16** Forcer la suppression d'un conteneur actif
+
+**17** Une image spécifique
+
+**18** Plusieurs images
+
+**19** Toutes les images inutilisées
+
+**20** Toutes les images non utilisées
+
+**21** Forcer la suppression d'une image
+
+**22** Quelle erreur est présente dans les commandes données ci-dessus, donner la correction
 
 
 
