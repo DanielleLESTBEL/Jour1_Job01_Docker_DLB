@@ -56,8 +56,16 @@ Welcome to Docker - Part 1 // Pull and Run
 
 ![docker run_Jour01_exo01_cmd09(fonctionnel)c](https://github.com/user-attachments/assets/cd701f69-99db-411e-a213-d331c34b9014)
 
+Eteindre Laragon s'il est ouvert.
+![Le container fonctionne_cmd09](https://github.com/user-attachments/assets/27c8010d-e697-4e21-8405-a9cf18ec78e4)
+
+Vérification dans un navigateur :
 ![Congrats first container](https://github.com/user-attachments/assets/34871e5b-0e08-42f0-9ebe-1d6500513764)
 
+
+--------------------------------------------
+--------------------------------------------
+## **Arrêter le container**
 
 **10** 
 
