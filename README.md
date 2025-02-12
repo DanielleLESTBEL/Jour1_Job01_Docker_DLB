@@ -46,7 +46,7 @@ Welcome to Docker - Part 1 // Pull and Run
 --------------------------------------------
 ## **Construisez le container Docker**
 
-**9)** docker run -it --rm -p xxxx:80 “nom de l'image”   [Remplacer xxxx par un port valide comme **8080**] \
+**9)** docker run -it --rm -p xxxx:80 “nom de l'image”   [Remplacer xxxx par un port valide comme **8080**]  
 
 ![docker pull   images_Jour01_exo01_cmd09](https://github.com/user-attachments/assets/f2f90188-db9d-4f2d-a6ee-773781658df7)
 
@@ -77,7 +77,7 @@ Vérification dans un navigateur : \
 --------------------------------------------
 ## **Supprimer le container**
 
-**11)** docker rm <nom du container> // ATTENTION si container créé avec l'entrée -rm ALORS LE CONTAINER EST SUPPRIME DIRECTEMENT DES FERMETURE DU TERMINAL OU ARRET DU CONTAINER. \
+**11)** docker rm <nom du container> // ATTENTION si container créé avec l'entrée -rm ALORS LE CONTAINER EST SUPPRIME DIRECTEMENT DES FERMETURE DU TERMINAL OU ARRET DU CONTAINER.   
 
 ![Suppression du container_cmd11](https://github.com/user-attachments/assets/97807960-1336-4cae-9fd7-5ad2b2385e63)
 
