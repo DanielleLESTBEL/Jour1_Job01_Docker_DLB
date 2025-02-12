@@ -5,7 +5,7 @@ Welcome to Docker - Part 1 // Pull and Run
 
 ## **Commandes de base :**
 
-**1)** docker --version
+**1)** docker --version \
 ![docker --version_Jour1_exo01_cmd01](https://github.com/user-attachments/assets/73216fc3-534e-447b-b722-fb86ab497f83)
 
 **2)** docker info
