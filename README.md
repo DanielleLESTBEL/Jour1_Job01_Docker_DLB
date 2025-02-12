@@ -100,25 +100,25 @@ docker rm container1 container2
 **15** Tous les conteneurs arrêtés
 docker container prune
 
-**16** Forcer la suppression d'un conteneur actif
+**16** Forcer la suppression d'un conteneur actif : 
 docker container prune -f
 
-**17** Une image spécifique
+**17** Une image spécifique : 
 docker rmi <id : nom de l'image>
 
-**18** Plusieurs images
+**18** Plusieurs images :
 docker rmi image1 image2
 
-**19** Toutes les images inutilisées
+**19** Toutes les images inutilisées :
 docker image prune
 
-**20** Toutes les images non utilisées
+**20** Toutes les images non utilisées :
 docker image prune -a
 
-**21** Forcer la suppression d'une image
+**21** Forcer la suppression d'une image :
 docker rmi -f <id : nom de l'image>
 
-**22** Quelle erreur est présente dans les commandes données ci-dessus, donner la correction
+**22** Quelle erreur est présente dans les commandes données ci-dessus, donner la correction :
 
 
 
