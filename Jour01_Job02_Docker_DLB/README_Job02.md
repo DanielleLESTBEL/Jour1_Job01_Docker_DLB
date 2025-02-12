@@ -15,23 +15,18 @@ faites dans le Job01 (Jour01).
 
 **5)** Accéder au container pour visualiser le résultat.
 
-**6)** Retournez dans Visual Studio et coder quelques lignes dans
-votre projet.
+**6)** Retournez dans Visual Studio et coder quelques lignes dans votre projet.
 
-**7)** Vérifiez le résultat faites en sorte que vos modifications soient
-prises en compte dans votre image docker et votre container.
+**7)** Vérifiez le résultat. Faites en sorte que vos modifications soient prises en compte dans votre image docker et votre container.
 
 **8)** Comprenez ce qu’il faut faire pour que ce soit pris en compte.
 
-**9)** Publier sur votre compte docker une image docker, et rendez
-la disponible à un membre de votre promo.
+**9)** Publier sur votre compte docker une image docker, et rendez-la disponible à un membre de votre promo.
 
-**10)** Récupérer une image docker d’un membre de votre promo et
-refaites les tests et modifications sur celle-ci (citez l’auteur
+**10)** Récupérer une image docker d’un membre de votre promo et refaire les tests et modifications sur celle-ci (citez l’auteur
 de l’image d’origine dans la page).
 
-**11)** Publier sur votre Docker l’image modifié du membre de votre
-promo.
+**11)** Publier sur votre Docker l’image modifié du membre de votre promo.
 
 
 
