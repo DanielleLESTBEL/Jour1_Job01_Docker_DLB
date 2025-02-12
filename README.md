@@ -119,6 +119,7 @@ docker image prune -a
 docker rmi -f <id : nom de l'image>
 
 **22** Quelle erreur est présente dans les commandes données ci-dessus, donner la correction :
+Une faute d'orthographe peut-être ? "Quel erreur" doit être corrigé en "quelle erreur".
 
 
 
